@@ -1,5 +1,5 @@
 import { useState } from "react";
-import react from "react";
+import React from "react";
 function Exercise() {
   const [name, setName] = useState("");
   const handleChange = (e) => {
